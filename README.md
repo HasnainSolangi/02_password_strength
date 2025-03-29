@@ -31,7 +31,7 @@ This Python application, built using Streamlit, provides a user-friendly interfa
 
 ## Requirements
 
--   Python 3.6+
+-   Python 3.12 or 3.12+
 -   Streamlit (`pip install streamlit`)
 
 ## How to Run
